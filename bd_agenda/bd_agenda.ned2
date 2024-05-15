@@ -1,0 +1,52 @@
+{
+  "paper": {
+    "name": "A3",
+    "leftMargin": 0.0,
+    "rightMargin": 0.0,
+    "topMargin": 0.0,
+    "bottomMargin": 0.0,
+    "isPortriat": false
+  },
+  "modelVersion": 2.01,
+  "defaultSchema": "Default",
+  "server": {
+    "objectType": "Server_MYSQL",
+    "name": "Default",
+    "serverVersion": 100432,
+    "edition": "Default",
+    "lowerCaseTableNames": 0,
+    "schemas": [
+      {
+        "objectType": "Schema_MYSQL",
+        "name": "Default",
+        "tables": [],
+        "views": []
+      },
+      {
+        "objectType": "Schema_MYSQL",
+        "name": "bd_agenda",
+        "tables": [],
+        "views": []
+      }
+    ]
+  },
+  "diagrams": [
+    {
+      "name": "Diagram 1",
+      "paperWidth": 1,
+      "paperHeight": 1,
+      "tableFont": "Arial Unicode MS",
+      "tableFontSize": 14,
+      "isBalckWhite": false,
+      "showDBSchemaName": false,
+      "showViewRelations": true,
+      "notation": "default",
+      "showFieldComment": false,
+      "showTableComment": false,
+      "shapes": [],
+      "layers": [],
+      "relations": [],
+      "viewRelations": []
+    }
+  ]
+}

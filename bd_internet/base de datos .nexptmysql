@@ -1,0 +1,42 @@
+{
+  "Version": 1.0,
+  "General": {
+    "Project": "",
+    "ProjectOwnerNavicatID": "",
+    "Server": "LOCAL",
+    "Catalog": "",
+    "Schema": "bd_internet",
+    "ExportType": "Text",
+    "ExportDirectoryBookmark": "",
+    "ExportDirectoryPath": "",
+    "TargetCodepage": 65001,
+    "AddTimeStamp": false,
+    "TimeStampFormat": "",
+    "IncludeTitle": true,
+    "FieldDelimiter": "\t",
+    "DateFormat": "DMY",
+    "DateSeparator": "/",
+    "ZeroPaddingDate": false,
+    "TimeSeparator": ":",
+    "DecimalSeparator": ".",
+    "TextQualifier": "\"",
+    "RowDelimiter": "CRLF",
+    "XMLFormat": "Element",
+    "UseBase64": true,
+    "AppendRecord": false,
+    "BlankIfZero": false,
+    "ContinueOnError": true
+  },
+  "Objects": [
+    {
+      "Object": {
+        "Name": "estudiantes",
+        "ObjectType": "Table_MYSQL"
+      },
+      "TargetName": "estudiantes",
+      "TargetFilePath": "C:\\Users\\User\\Desktop\\estudiantes.txt",
+      "AllFields": true,
+      "Fields": []
+    }
+  ]
+}
